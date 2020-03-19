@@ -1,0 +1,222 @@
+{
+	"clinton": {
+		"biden": {
+			"mean": 268878.8,
+			"stderror": 6003,
+			"lower": 256060.6,
+			"upper": 278205.5
+		},
+		"sanders": {
+			"mean": 20489.3,
+			"stderror": 1939.8,
+			"lower": 16395.3,
+			"upper": 23433.5
+		},
+		"warren": {
+			"mean": 10071.9,
+			"stderror": 440.9,
+			"lower": 9049.1,
+			"upper": 10957.8
+		},
+		"bloomberg": {
+			"mean": 40010.4,
+			"stderror": 1378.0,
+			"lower": 37081.8,
+			"upper": 42252.1
+		},
+		"other": {
+			"mean": 1897.2,
+			"stderror": 61.4,
+			"lower": 1793.6,
+			"upper": 2026.0
+		},
+		"nonvoters": {
+			"mean": 15895.8,
+			"stderror": 4278.0,
+			"lower": 11008.7,
+			"upper": 25634.1
+		},
+		"moved-out": {
+			"mean": 140790.5,
+			"stderror": 1872,
+			"lower": 136943.1,
+			"upper": 144369.1 
+		}
+	},
+	"sanders": {
+		"biden": {
+			"mean": 32746.2,
+			"stderror": 4179.7,
+			"lower": 27047.2,
+			"upper": 40175.1
+		},
+		"sanders": {
+			"mean": 129067.6,
+			"stderror": 5145.1,
+			"lower": 118903.9,
+			"upper": 136338.1
+		},
+		"warren": {
+			"mean": 31143.3,
+			"stderror": 1507.6,
+			"lower": 28966.7,
+			"upper": 34550.8
+		},
+		"bloomberg": {
+			"mean": 14576.8,
+			"stderror": 1362.8,
+			"lower": 12612.3,
+			"upper": 17136.8
+		},
+		"other": {
+			"mean": 1733.3,
+			"stderror": 67.3,
+			"lower": 1618.4,
+			"upper": 1882.3
+		},
+		"nonvoters": {
+			"mean": 36324.3,
+			"stderror": 5556.7,
+			"lower": 28440.6,
+			"upper": 46755.2
+		},
+		"moved-out": {
+			"mean": 145536.4,
+			"stderror": 3271.1,
+			"lower": 138417.1,
+			"upper": 149843.5
+		}
+	},
+	"other": {
+		"biden": {
+			"mean": 3459.7,
+			"stderror": 184.2,
+			"lower": 3185.2,
+			"upper": 3841.4
+		},
+		"sanders": {
+			"mean": 1108,
+			"stderror": 216.7,
+			"lower": 860.8,
+			"upper": 1664.6
+		},
+		"warren": {
+			"mean": 849.4,
+			"stderror": 83.6,
+			"lower": 745.4,
+			"upper": 1031.6
+		},
+		"bloomberg": {
+			"mean": 4270.9,
+			"stderror": 312.9,
+			"lower": 3537.2,
+			"upper": 4733.5
+		},
+		"other": {
+			"mean": 485.6,
+			"stderror": 22.5,
+			"lower": 447.1,
+			"upper": 538.6
+		},
+		"nonvoters": {
+			"mean": 6205.9,
+			"stderror": 364.1,
+			"lower": 5667.8,
+			"upper": 6814.9
+		},
+		"moved-out": {
+			"mean": 28541.5,
+			"stderror": 478.3,
+			"lower": 27641.7,
+			"upper": 29312.2
+		}
+	},
+	"nonvoters": {
+		"biden": {
+			"mean": 29259.6,
+			"stderror": 3977.8,
+			"lower": 23182.7,
+			"upper": 35716.1
+		},
+		"sanders": {
+			"mean": 8242.4,
+			"stderror": 1130.7,
+			"lower": 7036.4,
+			"upper": 11250.2
+		},
+		"warren": {
+			"mean": 2248.2,
+			"stderror": 245.5,
+			"lower": 1960,
+			"upper": 2844.8
+		},
+		"bloomberg": {
+			"mean": 5248.0,
+			"stderror": 313.7,
+			"lower": 4644.0,
+			"upper": 5785.8
+		},
+		"other": {
+			"mean": 990.1,
+			"stderror": 82,
+			"lower": 874.5,
+			"upper": 1146.7
+		},
+		"nonvoters": {
+			"mean": 167334.7,
+			"stderror": 11388.5,
+			"lower": 144544.2,
+			"upper": 181424.4
+		},
+		"moved-out": {
+			"mean": 20850,
+			"stderror": 5934.4,
+			"lower": 13938.3,
+			"upper": 32810.1
+		}
+	},
+	"moved-in": {
+		"biden": {
+			"mean": 126318.0,
+			"stderror": 3289.4,
+			"lower": 120956.6,
+			"upper": 131660.2
+		},
+		"sanders": {
+			"mean": 66777,
+			"stderror": 2377.4,
+			"lower": 62796.5,
+			"upper": 70564.2
+		},
+		"warren": {
+			"mean": 47109.9,
+			"stderror": 1253.5,
+			"lower": 44594.1,
+			"upper": 48796.3
+		},
+		"bloomberg": {
+			"mean": 48497.6,
+			"stderror": 1105.5,
+			"lower": 46519.9,
+			"upper": 50551.3
+		},
+		"other": {
+			"mean": 1851.1,
+			"stderror": 74.9,
+			"lower": 1698.7,
+			"upper": 1971.4
+		},
+		"nonvoters": {
+			"mean": 14016.2,
+			"stderror": 1323.6,
+			"lower": 12304.3,
+			"upper": 16451.5
+		},
+		"moved-out": {
+			"mean": 314996.2,
+			"stderror": 3328,
+			"lower": 307040.1,
+			"upper": 320195.2
+		}
+	}
+}
